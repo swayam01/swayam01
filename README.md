@@ -2,7 +2,7 @@
 
 [![GitHub swayam01](https://img.shields.io/github/followers/swayam01?label=follow&style=social)](https://github.com/swayam01)
 [![Linkedin: Swayam Mittal](https://img.shields.io/badge/-Swayam%20Mittal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swayam-mittal-5b571768/)](https://www.linkedin.com/in/swayam-mittal-5b571768/)
-[![Twitter: Khushboo Verma](https://img.shields.io/twitter/follow/swayammittal65?style=social)](https://twitter.com/swayammittal65)
+[![Twitter: Swayam Mittal](https://img.shields.io/twitter/follow/swayammittal65?style=social)](https://twitter.com/swayammittal65)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=swayam01&left_color=gray&right_color=blue)
 [![Medium Badge](https://img.shields.io/badge/-@Swayam%20Mittal-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@swayammittal65_2667)](https://medium.com/@swayammittal65_2667)
 [![YouTube Badge](https://img.shields.io/badge/-SWAYAMMITTAL-orange?style=flat-square&logo=polywork&logoColor=black&link=https://www.youtube.com/channel/UCR-VvjGEZCyK9PC-lRD-b6g)](https://www.youtube.com/channel/UCR-VvjGEZCyK9PC-lRD-b6g)
